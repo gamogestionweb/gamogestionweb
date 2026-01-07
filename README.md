@@ -47,7 +47,7 @@ The feature I'm most proud of? **Legacy Mode**. AI voice cloning that lets you t
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 ### [Are You There Reading?](https://github.com/gamogestionweb/Are-you-there-are-reading)
 
@@ -58,6 +58,19 @@ The feature I'm most proud of? **Legacy Mode**. AI voice cloning that lets you t
 What if every accident was meant to happen? This book weaves chaos theory, neuroscience, and philosophy into a meditation on whether we write our story or simply read it.
 
 **[Read Now →](https://github.com/gamogestionweb/Are-you-there-are-reading)**
+
+</td>
+<td width="50%">
+
+### [100 Días de una Vida](https://github.com/gamogestionweb/100-dias-de-una-vida)
+
+<sup>FREE • SPANISH • 100 POEMS</sup>
+
+*Diario poético de un hombre roto que eligió escribir en lugar de rendirse*
+
+100 días de poesía cruda, sin filtros. Pérdida, alcohol, amor roto y la decisión de seguir adelante. Escrito a mano en 2019. Sin IA. Solo verdad.
+
+**[Leer Ahora →](https://github.com/gamogestionweb/100-dias-de-una-vida)**
 
 </td>
 </tr>
