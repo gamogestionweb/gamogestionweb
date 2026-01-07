@@ -1,4 +1,4 @@
-# Daniel
+# Daniel Gamo
 
 **Building what others theorize about**
 
