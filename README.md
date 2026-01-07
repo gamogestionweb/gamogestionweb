@@ -1,4 +1,4 @@
-# Daniel Gamo
+# Daniel
 
 **Building what others theorize about**
 
@@ -66,9 +66,9 @@ What if every accident was meant to happen? This book weaves chaos theory, neuro
 
 <sup>FREE • SPANISH • 100 POEMS</sup>
 
-*Diario poético de un hombre roto que eligió escribir en lugar de rendirse*
+*Ficción poética: 100 días en la vida de Abel*
 
-100 días de poesía cruda, sin filtros. Pérdida, alcohol, amor roto y la decisión de seguir adelante. Escrito a mano en 2019. Sin IA. Solo verdad.
+Poesía cruda, sin filtros. Pérdida, alcohol, amor roto y la decisión de seguir adelante. Escrito a mano en 2019. Sin IA. Ficción.
 
 **[Leer Ahora →](https://github.com/gamogestionweb/100-dias-de-una-vida)**
 
