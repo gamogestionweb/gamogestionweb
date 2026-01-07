@@ -1,4 +1,4 @@
-# Daniel Gamo
+# Daniel
 
 **Building what others theorize about**
 
@@ -8,9 +8,25 @@ I am an independent artificial intelligence researcher in Spain. I love testing,
 
 I coined **Individual Artificial Personality (IAP)** — the idea that the future of AI isn't one massive intelligence, but millions of deeply personal ones. Then I built it.
 
-[**Orion**](https://github.com/gamogestionweb/Orion) is my proof of concept. 207 versions. Live on Google Play. Not a wrapper around an API — a complete system for creating persistent, evolving AI personalities that remember, learn, and adapt to their human.
+<table>
+<tr>
+<td>
+
+### [Orion](https://play.google.com/store/apps/details?id=com.orion.proyectoorion)
+
+<a href="https://play.google.com/store/apps/details?id=com.orion.proyectoorion">
+  <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play" alt="Download on Google Play"/>
+</a>
+
+207 versions. A complete system for creating persistent, evolving AI personalities that remember, learn, and adapt to their human.
 
 The feature I'm most proud of? **Legacy Mode**. AI voice cloning that lets you talk to people you've lost. I built it to hear my father's voice again. Now anyone can.
+
+<sub>[View legacy source code](https://github.com/gamogestionweb/Orion)</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -27,11 +43,33 @@ The feature I'm most proud of? **Legacy Mode**. AI voice cloning that lets you t
 
 ---
 
+## Published Books
+
+<table>
+<tr>
+<td>
+
+### [Are You There Reading?](https://github.com/gamogestionweb/Are-you-there-are-reading)
+
+<sup>FREE • ENGLISH • 12 CHAPTERS</sup>
+
+*A philosophical exploration of chance, destiny, and the invisible threads that weave our existence*
+
+What if every accident was meant to happen? This book weaves chaos theory, neuroscience, and philosophy into a meditation on whether we write our story or simply read it.
+
+**[Read Now →](https://github.com/gamogestionweb/Are-you-there-are-reading)**
+
+</td>
+</tr>
+</table>
+
+---
+
 ## My approach
 
 I don't write papers about what AI *could* do. I build it, ship it, and iterate in public. 207 times and counting.
 
-Two published books. [100k followers on TikTok](https://www.tiktok.com/@sucesoshoy). Based in Spain, thinking in futures.
+[100k followers on TikTok](https://www.tiktok.com/@sucesoshoy). Based in Spain, thinking in futures.
 
 ---
 
