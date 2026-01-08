@@ -2,38 +2,49 @@
 
 **Building what others theorize about**
 
-Soy investigador independiente en Inteligencia Artificial en España. Me apasiona probar, experimentar y crear. Entusiasta de las matemáticas, la IA y la ciencia.
+Independent Artificial Intelligence researcher in Spain. Passionate about testing, experimenting, and creating. Mathematics, AI, and science enthusiast.
 
 ---
 
-Acuñé el concepto de **Inteligencia Artificial Personal Individual (IAP)** — la idea de que el futuro de la IA no es una única inteligencia masiva, sino millones de personalidades profundamente personales. Luego lo construí.
+I coined the concept of **Individual Artificial Personality (IAP)** — the idea that the future of AI is not a single massive intelligence, but millions of deeply personal personalities. Then I built it.
 
 ### Orion
-207 versiones. Sistema completo para crear personalidades de IA persistentes y evolucionadas que recuerdan, aprenden y se adaptan a su usuario. Incluye **Legacy Mode**: clonación de voz IA que permite hablar con personas perdidas.
+
+207 versions. Complete system for creating persistent, evolving AI personalities that remember, learn, and adapt to their user. Includes **Legacy Mode**: AI voice cloning that allows you to talk to lost loved ones.
+
+<a href="https://play.google.com/store/apps/details?id=com.orion.proyectoorion">
+  <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play" alt="Download on Google Play"/>
+</a>
 
 ---
 
-## Experimentos destacados
+## Featured Experiments
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [**Genesis**](https://github.com/gamogestionweb/genesis-simulation) | Simulación de consciencia donde agentes IA desarrollan personalidades emergentes y toman decisiones autónomas |
-| [**Physics from Scratch**](https://github.com/gamogestionweb/physics-discovery-ai) | Sistemas multi-agente derivando leyes físicas desde primeros principios sin datos de entrenamiento |
-| [**PCP Universe**](https://github.com/gamogestionweb/pcp-universe) | Sandbox de física computacional experimental - validando el Principio de Contención del Presente |
-| [**Universal Translator**](https://github.com/gamogestionweb/universal-translator) | Extensión de navegador para traducción automática en redes sociales |
+| Project | Description |
+|---------|-------------|
+| [**Genesis**](https://github.com/gamogestionweb/genesis-simulation) | Consciousness simulation where AI agents develop emergent personalities and make autonomous decisions |
+| [**Physics from Scratch**](https://github.com/gamogestionweb/physics-discovery-ai) | Multi-agent systems deriving physical laws from first principles without training data |
+| [**PCP Universe**](https://github.com/gamogestionweb/pcp-universe) | Experimental computational physics sandbox - validating the Present Containment Principle |
+| [**Universal Translator**](https://github.com/gamogestionweb/universal-translator) | Browser extension for automatic translation on social networks |
 
-Verificación cuántica en hardware IBM.
-
----
-
-## Libro Publicado
-
-**[Are You There Reading?](https://github.com/gamogestionweb/Are-you-there-are-reading)** — Exploración filosófica de azar, destino e hilos invisibles que tejen nuestra existencia. ¿Casualidad o causalidad? Neurociencia, teoría del caos y reflexiones sobre el universo. 12 capítulos. GRATIS.
+Quantum verification on IBM hardware.
 
 ---
 
-**Mi enfoque:** Construyo y publico soluciones, no papers. 207 iteraciones y contando. 100k seguidores en TikTok (@sucesoshoy). Basado en España, pensando en futuros.
+## Published Book
 
-*Si trabajas en algo que importa, hablemos.*
+**[Are You There Reading?](https://github.com/gamogestionweb/Are-you-there-are-reading)** — A philosophical exploration of chance, destiny, and the invisible threads that weave our existence. Coincidence or causality? Neuroscience, chaos theory, and reflections on the universe. 12 chapters. FREE.
+
+---
+
+**My approach:** I build and ship solutions, not papers. 207 iterations and counting.
+
+<a href="https://www.tiktok.com/@sucesoshoy">
+  <img src="https://img.shields.io/badge/TikTok-@sucesoshoy-black?style=for-the-badge&logo=tiktok" alt="TikTok"/>
+</a>
+
+100k followers. Based in Spain, thinking about futures.
+
+*If you're working on something that matters, let's talk.*
 
 📧 gamogestionweb@gmail.com
