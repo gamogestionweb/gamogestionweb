@@ -2,90 +2,38 @@
 
 **Building what others theorize about**
 
-I am an independent artificial intelligence researcher in Spain. I love testing, experimenting, and creating. Passionate about mathematics, AI, and poetry.
+Soy investigador independiente en Inteligencia Artificial en España. Me apasiona probar, experimentar y crear. Entusiasta de las matemáticas, la IA y la ciencia.
 
 ---
 
-I coined **Individual Artificial Personality (IAP)** — the idea that the future of AI isn't one massive intelligence, but millions of deeply personal ones. Then I built it.
+Acuñé el concepto de **Inteligencia Artificial Personal Individual (IAP)** — la idea de que el futuro de la IA no es una única inteligencia masiva, sino millones de personalidades profundamente personales. Luego lo construí.
 
-<table>
-<tr>
-<td>
-
-### [Orion](https://play.google.com/store/apps/details?id=com.orion.proyectoorion)
-
-<a href="https://play.google.com/store/apps/details?id=com.orion.proyectoorion">
-  <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play" alt="Download on Google Play"/>
-</a>
-
-207 versions. A complete system for creating persistent, evolving AI personalities that remember, learn, and adapt to their human.
-
-The feature I'm most proud of? **Legacy Mode**. AI voice cloning that lets you talk to people you've lost. I built it to hear my father's voice again. Now anyone can.
-
-<sub>[View legacy source code](https://github.com/gamogestionweb/Orion)</sub>
-
-</td>
-</tr>
-</table>
+### Orion
+207 versiones. Sistema completo para crear personalidades de IA persistentes y evolucionadas que recuerdan, aprenden y se adaptan a su usuario. Incluye **Legacy Mode**: clonación de voz IA que permite hablar con personas perdidas.
 
 ---
 
-## Experiments that kept me up at night
+## Experimentos destacados
 
-| Project | Description |
-|---------|-------------|
-| [**Genesis**](https://github.com/gamogestionweb/genesis-simulation) | A consciousness simulation where AI agents developed emergent personalities and made autonomous decisions, including choosing to leave Eden on their own |
-| [**Physics from scratch**](https://github.com/gamogestionweb/physics-discovery-ai) | Multi-agent systems tasked with deriving physical laws from first principles, no training data, just reasoning and iteration |
-| [**PCP Universe**](https://github.com/gamogestionweb/pcp-universe) | Experimental computational physics sandbox |
-| [**Universal Translator**](https://github.com/gamogestionweb/universal-translator) | Browser extension for automatic translation on social platforms |
+| Proyecto | Descripción |
+|----------|-------------|
+| [**Genesis**](https://github.com/gamogestionweb/genesis-simulation) | Simulación de consciencia donde agentes IA desarrollan personalidades emergentes y toman decisiones autónomas |
+| [**Physics from Scratch**](https://github.com/gamogestionweb/physics-discovery-ai) | Sistemas multi-agente derivando leyes físicas desde primeros principios sin datos de entrenamiento |
+| [**PCP Universe**](https://github.com/gamogestionweb/pcp-universe) | Sandbox de física computacional experimental - validando el Principio de Contención del Presente |
+| [**Universal Translator**](https://github.com/gamogestionweb/universal-translator) | Extensión de navegador para traducción automática en redes sociales |
 
-**Quantum verification** on IBM hardware testing temporal information constraints (avg fidelity 0.6191 across qubit configurations)
-
----
-
-## Published Books
-
-<table>
-<tr>
-<td width="50%">
-
-### [Are You There Reading?](https://github.com/gamogestionweb/Are-you-there-are-reading)
-
-<sup>FREE • ENGLISH • 12 CHAPTERS</sup>
-
-*A philosophical exploration of chance, destiny, and the invisible threads that weave our existence*
-
-What if every accident was meant to happen? This book weaves chaos theory, neuroscience, and philosophy into a meditation on whether we write our story or simply read it.
-
-**[Read Now →](https://github.com/gamogestionweb/Are-you-there-are-reading)**
-
-</td>
-<td width="50%">
-
-### [100 Días de una Vida](https://github.com/gamogestionweb/100-dias-de-una-vida)
-
-<sup>FREE • SPANISH • 100 POEMS</sup>
-
-*Ficción poética: 100 días en la vida de Abel*
-
-Poesía cruda, sin filtros. Pérdida, alcohol, amor roto y la decisión de seguir adelante. Escrito a mano en 2019. Sin IA. Ficción.
-
-**[Leer Ahora →](https://github.com/gamogestionweb/100-dias-de-una-vida)**
-
-</td>
-</tr>
-</table>
+Verificación cuántica en hardware IBM.
 
 ---
 
-## My approach
+## Libro Publicado
 
-I don't write papers about what AI *could* do. I build it, ship it, and iterate in public. 207 times and counting.
-
-[100k followers on TikTok](https://www.tiktok.com/@sucesoshoy). Based in Spain, thinking in futures.
+**[Are You There Reading?](https://github.com/gamogestionweb/Are-you-there-are-reading)** — Exploración filosófica de azar, destino e hilos invisibles que tejen nuestra existencia. ¿Casualidad o causalidad? Neurociencia, teoría del caos y reflexiones sobre el universo. 12 capítulos. GRATIS.
 
 ---
 
-*If you're working on something that matters, let's talk.*
+**Mi enfoque:** Construyo y publico soluciones, no papers. 207 iteraciones y contando. 100k seguidores en TikTok (@sucesoshoy). Basado en España, pensando en futuros.
 
-[![Email](https://img.shields.io/badge/Email-gamogestionweb%40gmail.com-red?style=flat&logo=gmail)](mailto:gamogestionweb@gmail.com) [![TikTok](https://img.shields.io/badge/TikTok-@sucesoshoy-black?style=flat&logo=tiktok)](https://www.tiktok.com/@sucesoshoy)
+*Si trabajas en algo que importa, hablemos.*
+
+📧 gamogestionweb@gmail.com
