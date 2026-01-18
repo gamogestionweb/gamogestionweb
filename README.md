@@ -10,7 +10,7 @@ I coined the concept of **Individual Artificial Personality (IAP)** — the idea
 
 ### Orion
 
-245 versions. Complete system for creating persistent, evolving AI personalities that remember, learn, and adapt to their user. Includes **Legacy Mode**: AI voice cloning that allows you to talk to lost loved ones.
+260 versions. Complete system for creating persistent, evolving AI personalities that remember, learn, and adapt to their user. Includes **Legacy Mode**: AI voice cloning that allows you to talk to lost loved ones.
 
 <a href="https://play.google.com/store/apps/details?id=com.orion.proyectoorion">
   <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play" alt="Download on Google Play"/>
@@ -37,7 +37,7 @@ Quantum verification on IBM hardware.
 
 ---
 
-**My approach:** I build and ship solutions, not papers. 207 iterations and counting.
+**My approach:** I build and ship solutions, not papers. 260 iterations and counting.
 
 <a href="https://www.tiktok.com/@sucesoshoy">
   <img src="https://img.shields.io/badge/TikTok-@sucesoshoy-black?style=for-the-badge&logo=tiktok" alt="TikTok"/>
