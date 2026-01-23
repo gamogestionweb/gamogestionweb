@@ -31,4 +31,4 @@ Try my AI experiments running live:
 ## Connect
 
 - 🌐 [danielgamo.com](https://danielgamo.com)
-- - 📧 daniel@danielgamo.com
+- - 📧 gamogestionweb@gmail.com
