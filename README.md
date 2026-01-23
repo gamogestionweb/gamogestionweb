@@ -24,7 +24,7 @@ Try my AI experiments running live:
 | Project | Description | Try It |
 |---------|-------------|--------|
 | **Genesis Simulation** | AI agents develop emergent personalities and make autonomous decisions about existence | [Launch Demo](https://genesis-simulation-production.up.railway.app) |
-| **Physics Discovery AI** | 9 legendary physicists + Devil's Advocate exploring fundamental physics questions in parallel | [Launch Demo](https://physics-discovery-ai-production.up.railway.app) |
+| **Physics Discovery AI** | 9 legendary physicists + Devil's Advocate exploring fundamental physics questions in parallel 
 
 ---
 
