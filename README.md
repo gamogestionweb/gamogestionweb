@@ -24,11 +24,35 @@ Try my AI experiments running live:
 | Project | Description | Try It |
 |---------|-------------|--------|
 | **Genesis Simulation** | AI agents develop emergent personalities and make autonomous decisions about existence | [Launch Demo](https://genesis-simulation-production.up.railway.app) |
-| **Physics Discovery AI** | 9 legendary physicists + Devil's Advocate exploring fundamental physics questions in parallel 
+
+---
+
+## My Book
+
+### Are You There Reading?
+
+A philosophical exploration examining chance versus destiny through 12 interconnected chapters. Weaving together chaos theory, neuroscience, and philosophy to investigate whether our lives are predetermined or freely chosen.
+
+[![Read Free](https://img.shields.io/badge/Read_Free-GitHub-black?style=for-the-badge&logo=github)](https://github.com/gamogestionweb/Are-you-there-are-reading)
+[![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge&logo=adobe)](https://github.com/gamogestionweb/Are-you-there-are-reading/raw/main/Are_You_There_Reading.pdf)
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Orion**](https://github.com/gamogestionweb/Orion) | Personal AI system with persistent memory and evolving personality |
+| [**Genesis Simulation**](https://github.com/gamogestionweb/genesis-simulation) | AI agents with emergent consciousness and autonomous decisions |
+| [**PCP Universe**](https://github.com/gamogestionweb/pcp-universe) | Computational physics sandbox validating the Present Containment Principle |
+| [**Universal Translator**](https://github.com/gamogestionweb/universal-translator) | Browser extension that translates Twitter/X in real-time |
+| [**Sucesos Hoy TikTok**](https://github.com/gamogestionweb/sucesos-hoy-tik-tok) | Automated news content for TikTok |
+| [**Generador QR Gratis**](https://github.com/gamogestionweb/generador-qr-gratis) | Free QR code generator. No accounts, no subscriptions, no scams |
+| [**Engram**](https://github.com/gamogestionweb/Engram) | Conditional Memory via Scalable Lookup for LLMs |
 
 ---
 
 ## Connect
 
 - 🌐 [danielgamo.com](https://danielgamo.com)
-- - 📧 gamogestionweb@gmail.com
+- 📧 gamogestionweb@gmail.com
