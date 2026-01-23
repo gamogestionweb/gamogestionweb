@@ -14,7 +14,21 @@ I coined the concept of **Individual Artificial Personality (IAP)** — the idea
 
 <a href="https://play.google.com/store/apps/details?id=com.orion.proyectoorion">
   <img src="https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play" alt="Download on Google Play"/>
-</a>
+</a>a>
+<a href="https://github.com/gamogestionweb/orion-signaling-server/releases/download/orion/app-release.apk">
+  <img src="https://img.shields.io/badge/APK-Direct_Download-blue?style=for-the-badge&logo=android" alt="Download APK"/>
+</a>a>
+
+---
+
+## Live Demos
+
+Try my AI experiments running live:
+
+| Project | Description | Try It |
+|---------|-------------|--------|
+| **Genesis Simulation** | AI agents develop emergent personalities and make autonomous decisions about existence | [**Launch Demo**](https://genesis-simulation-production.up.railway.app) |
+| **Physics Discovery AI** | 9 legendary physicists + Devil's Advocate exploring physics in parallel | [**Launch Demo**](https://physics-discovery-ai-production.up.railway.app) |
 
 ---
 
@@ -24,7 +38,6 @@ I coined the concept of **Individual Artificial Personality (IAP)** — the idea
 |---------|-------------|
 | [**Genesis**](https://github.com/gamogestionweb/genesis-simulation) | Consciousness simulation where AI agents develop emergent personalities and make autonomous decisions |
 | [**Physics from Scratch**](https://github.com/gamogestionweb/physics-discovery-ai) | Multi-agent systems deriving physical laws from first principles without training data |
-| [**PCP Universe**](https://github.com/gamogestionweb/pcp-universe) | Experimental computational physics sandbox - validating the Present Containment Principle |
 | [**Universal Translator**](https://github.com/gamogestionweb/universal-translator) | Browser extension for automatic translation on social networks |
 
 Quantum verification on IBM hardware.
@@ -41,7 +54,7 @@ Quantum verification on IBM hardware.
 
 <a href="https://www.tiktok.com/@sucesoshoy">
   <img src="https://img.shields.io/badge/TikTok-@sucesoshoy-black?style=for-the-badge&logo=tiktok" alt="TikTok"/>
-</a>
+</a>a>
 
 100k followers. Based in Spain, thinking about futures.
 
