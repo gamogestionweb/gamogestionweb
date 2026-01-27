@@ -43,6 +43,7 @@ A philosophical exploration examining chance versus destiny through 12 interconn
 | Project | Description |
 |---------|-------------|
 | [**Orion**](https://github.com/gamogestionweb/Orion) | Personal AI system with persistent memory and evolving personality |
+| [**Cognitive Signature**](https://github.com/gamogestionweb/cognitive-signature) | Extract unique cognitive fingerprints from brain CT/MRI scans |
 | [**Genesis Simulation**](https://github.com/gamogestionweb/genesis-simulation) | AI agents with emergent consciousness and autonomous decisions |
 | [**PCP Universe**](https://github.com/gamogestionweb/pcp-universe) | Computational physics sandbox validating the Present Containment Principle |
 | [**Universal Translator**](https://github.com/gamogestionweb/universal-translator) | Browser extension that translates Twitter/X in real-time |
