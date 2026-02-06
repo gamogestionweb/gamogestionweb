@@ -34,7 +34,6 @@ Try my AI experiments running live:
 A philosophical exploration examining chance versus destiny through 12 interconnected chapters. Weaving together chaos theory, neuroscience, and philosophy to investigate whether our lives are predetermined or freely chosen.
 
 [![Read Free](https://img.shields.io/badge/Read_Free-GitHub-black?style=for-the-badge&logo=github)](https://github.com/gamogestionweb/Are-you-there-are-reading)
-[![Download PDF](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge&logo=adobe)]([https://github.com/gamogestionweb/Are-you-there-are-reading/raw/main/Are_You_There_Reading.pdf](https://github.com/gamogestionweb/Are-you-there-are-reading/blob/main/FULL_BOOK.md))
 
 ---
 
