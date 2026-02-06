@@ -10,7 +10,7 @@ I coined the concept of **Individual Artificial Personality (IAP)** — the idea
 
 ### Orion
 
-290 versions. Complete system for creating persistent, evolving AI personalities that remember, learn, and adapt to their user. Includes **Legacy Mode**: AI voice cloning that allows you to talk to lost loved ones.
+309 versions. Complete system for creating persistent, evolving AI personalities that remember, learn, and adapt to their user. Includes **Legacy Mode**: AI voice cloning that allows you to talk to lost loved ones.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.orion.proyectoorion)
 [![APK](https://img.shields.io/badge/APK-Direct_Download-blue?style=for-the-badge&logo=android)](https://danielgamo.com/downloads/orion.apk)
