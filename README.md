@@ -18,15 +18,7 @@ I coined the concept of **Individual Artificial Personality (IAP)** — the idea
 
 ---
 
-## Live Demos
 
-Try my AI experiments running live:
-
-| Project | Description | Try It |
-|---------|-------------|--------|
-| **Genesis Simulation** | AI agents develop emergent personalities and make autonomous decisions about existence | [Launch Demo](https://genesis-simulation-production.up.railway.app) |
-
----
 
 ## My Book
 
