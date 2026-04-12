@@ -18,8 +18,6 @@ I coined the concept of **Individual Artificial Personality (IAP)** — the idea
 
 ---
 
-
-
 ## My Book
 
 ### Are You There Reading?
@@ -32,19 +30,39 @@ A philosophical exploration examining chance versus destiny through 12 interconn
 
 ## Projects
 
+### AI & Machine Learning
+
 | Project | Description |
 |---------|-------------|
-| [**Orion**](https://github.com/gamogestionweb/Orion) | Personal AI system with persistent memory and evolving personality |
-| [**Cognitive Signature**](https://github.com/gamogestionweb/cognitive-signature) | Extract unique cognitive fingerprints from brain CT/MRI scans |
-| [**Genesis Simulation**](https://github.com/gamogestionweb/genesis-simulation) | AI agents with emergent consciousness and autonomous decisions |
+| [**Word Complet**](https://github.com/gamogestionweb/word-complet) | The Reverse AI Keyboard. AI predicts your intention and shows complete words to tap — faster than typing. The SwiftKey killer |
+| [**TurboQuant-Llama**](https://github.com/gamogestionweb/Turboquant-llama) | Integration roadmap for Google's TurboQuant 3-bit KV-cache compression into llama.cpp. Running LLMs on phones with limited RAM |
+| [**Physics Discovery AI**](https://github.com/gamogestionweb/physics-discovery-ai) | 11 autonomous AI agents (DeepSeek, Claude, GPT) that collaboratively explore physics, propose theories, run experiments, and debate to discover new relationships |
+| [**Engram**](https://github.com/gamogestionweb/Engram) | Conditional Memory via Scalable Lookup — a new sparsity axis for LLMs using O(1) N-gram embeddings alongside Mixture-of-Experts at 27B scale |
+| [**Cognitive Signature**](https://github.com/gamogestionweb/cognitive-signature) | Extract unique cognitive fingerprints from brain CT/MRI scans. Generate 3D visualizations and compare with population norms |
+| [**Genesis Simulation**](https://github.com/gamogestionweb/genesis-simulation) | AI agents with emergent consciousness and autonomous decision-making in a simulated environment |
+
+### Research & Science
+
+| Project | Description |
+|---------|-------------|
+| [**Water**](https://github.com/gamogestionweb/water) | Scientific monograph tracing the hydrogen bond across 15 orders of magnitude — from quantum proton tunneling to planetary climate. 100+ peer-reviewed references |
+| [**D2D Reality**](https://github.com/gamogestionweb/d2d-reality) | Exposing how every smartphone has hardware for direct device-to-device communication over kilometers (3GPP ProSe) — disabled by design by carriers |
 | [**PCP Universe**](https://github.com/gamogestionweb/pcp-universe) | Computational physics sandbox validating the Present Containment Principle |
-| [**Universal Translator**](https://github.com/gamogestionweb/universal-translator) | Browser extension that translates Twitter/X in real-time |
-| [**Sucesos Hoy TikTok**](https://github.com/gamogestionweb/sucesos-hoy-tik-tok) | Automated news content for TikTok |
+| [**OMNISCOPE**](https://github.com/gamogestionweb/omniscope) | A Hierarchical Reality-Access Framework. What if God isn't a being, but a resolution level? |
+
+### Tools & Apps
+
+| Project | Description |
+|---------|-------------|
+| [**Orion**](https://github.com/gamogestionweb/Orion) | Personal AI system with persistent memory and evolving personality. 412 versions and counting |
+| [**Universal Translator**](https://github.com/gamogestionweb/universal-translator) | Browser extension that automatically translates Twitter/X to your language in real-time |
+| [**Twitter X Human Verification**](https://github.com/gamogestionweb/twitter-x-human-verification-protocol) | Anonymous, community-triggered human verification for X — no identity revealed, no data stored. A gift for @elonmusk |
+| [**THEOS**](https://github.com/gamogestionweb/theos-google-earth-divino) | Google Earth Divino — interactive prototype replicating omniscience, omnipresence, and omnisapience with a 3D globe and cosmic timeline |
 | [**Generador QR Gratis**](https://github.com/gamogestionweb/generador-qr-gratis) | Free QR code generator. No accounts, no subscriptions, no scams |
 
 ---
 
 ## Connect
 
-- 🌐 [danielgamo.com](https://danielgamo.com)
-- 📧 gamogestionweb@gmail.com
+- [danielgamo.com](https://danielgamo.com)
+- gamogestionweb@gmail.com
