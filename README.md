@@ -48,7 +48,6 @@ A philosophical exploration examining chance versus destiny through 12 interconn
 | [**Water**](https://github.com/gamogestionweb/water) | Scientific monograph tracing the hydrogen bond across 15 orders of magnitude — from quantum proton tunneling to planetary climate. 100+ peer-reviewed references |
 | [**D2D Reality**](https://github.com/gamogestionweb/d2d-reality) | Exposing how every smartphone has hardware for direct device-to-device communication over kilometers (3GPP ProSe) — disabled by design by carriers |
 | [**PCP Universe**](https://github.com/gamogestionweb/pcp-universe) | Computational physics sandbox validating the Present Containment Principle |
-| [**OMNISCOPE**](https://github.com/gamogestionweb/omniscope) | A Hierarchical Reality-Access Framework. What if God isn't a being, but a resolution level? |
 
 ### Tools & Apps
 
